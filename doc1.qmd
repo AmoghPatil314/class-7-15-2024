@@ -6,3 +6,8 @@ Broad Topic: How does race affect getting a job?
 
 Specific Question: Does being white or black affect your chances of getting a job in the Boston labor market?
 
+Units: People
+Outcomes: Job or no
+Covariates: Gender
+Treatments: Race
+Predictive Model
